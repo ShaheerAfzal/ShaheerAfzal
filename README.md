@@ -2,7 +2,7 @@
 <h3 align="center">As a Computer Engineering student, I'm driven by a passion for building impactful tech solutions and solving real-world problems through code. With a solid foundation in core engineering principles and hands-on experience in software development, I'm constantly exploring how technology can be used to innovate, optimize, and create value. I enjoy working across the stack, with growing proficiency in Python, C++, Django, and web technologies. Whether it's building full-stack applications, tackling algorithmic challenges, or diving into system-level logic, I'm always eager to learn and take on new challenges. Currently, I'm focused on sharpening my skills through practical projects and collaborative team work — with a long-term goal of contributing to cutting-edge solutions in software engineering, AI, and embedded systems.</h3>
 
 # 💫 About Me:
-🔭 I'm currently working on **Agentic AI**<br><br>🌱 I'm currently learning **Agentic AI, DeepLearning, AI/ML, Embedded systems**<br><br>👨‍💻 All of my projects are available at <a href="https://linkedin.com/in/muhammad-shaheer-afzal">***My GitHub***</a><br><br>📫 How to reach me shaheerafzal341@gmail.com<br><br>⚡ Fun fact My friends think I'm Autistic
+🔭 I'm currently working on **Agentic AI**<br><br>🌱 I'm currently learning **Agentic AI, DeepLearning, AI/ML, Embedded systems**<br><br>👨‍💻 All of my projects are available at <a href="https://github.com/ShaheerAfzal">***My GitHub***</a><br><br>📫 How to reach me shaheerafzal341@gmail.com<br><br>⚡ Fun fact My friends think I'm Autistic
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
